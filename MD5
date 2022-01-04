@@ -1,0 +1,13 @@
+f95d5f7102f9a720754848091b4cc701 *DESCRIPTION
+7985dbfb52ead28eef2244180a0a6d79 *LICENSE
+cf65acd889d62040fcb9c36666c773c3 *NAMESPACE
+d14fae831c33f37005a4a2fb062af716 *R/anovaTable.R
+294810473835609324bbe0fd2edfdd60 *R/contrastTest.R
+a8b2ca362121c3230da76c224f10df55 *R/depression.R
+4582289aace5c371530706415c4303a8 *R/genericData.R
+57aa54c9b355b067a868ee8e38d02050 *data/depression.RData
+8af2c5b426d9018a44b13f9ac9fdf961 *data/genericData.RData
+8d4f5a294a18806a9c40b2d950726b5c *man/anovaTable.Rd
+71fe3017a47ffbadf9589f80a8c091c8 *man/contrastTest.Rd
+0ff61df79678a66e61286a4c58847459 *man/depression.Rd
+115ecb80fd3c595bed0928ee9f7c2801 *man/genericData.Rd
